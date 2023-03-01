@@ -1,5 +1,4 @@
-# gis_training_zamep
-GIS training material for the Zanzibar Malaria Elimination Programme
+# Worksheet 1 Videos
 
 See below for instructional videos that accompany the worksheets:
 1.1add_layers.mp4
