@@ -1,3 +1,6 @@
+# Worksheet 2 Videos
+
+See below for instructional videos that accompany the worksheets:
 
 2.1select_features_area.mp4
 
