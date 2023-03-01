@@ -1,1 +1,0 @@
-[AU_ZAMEP_GIS_training_worksheet1_v3_compressed.pdf](https://github.com/ajhardy13/gis_training_zamep/files/10861554/AU_ZAMEP_GIS_training_worksheet1_v3_compressed.pdf)
